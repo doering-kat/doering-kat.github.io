@@ -2,4 +2,4 @@
 
 ## See my other work
 
-See my otherprofile @k-doering-NOAA for the work I do in support of NOAA fisheries.
+See my other profile [k-doering-NOAA](https://github.com/k-doering-NOAA) for the work I do in support of NOAA fisheries.
